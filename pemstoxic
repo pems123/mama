@@ -13,7 +13,7 @@ wait(8 - 6);
 local repo = 'https://raw.githubusercontent.com/violin-suzutsuki/LinoriaLib/main/'
 
 local Library = loadstring(game:HttpGet(repo .. 'Library.lua'))()
-local ThemeManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/PATRICKPUB/Doomed.cc.themes/main/Doomed.cc.themes"))()
+local ThemeManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/toxght1/1/main/1"))()
 local SaveManager = loadstring(game:HttpGet(repo .. 'addons/SaveManager.lua'))()
 
 local Window = Library:CreateWindow({
